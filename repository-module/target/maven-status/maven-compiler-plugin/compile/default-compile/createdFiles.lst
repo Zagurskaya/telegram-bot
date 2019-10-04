@@ -1,0 +1,6 @@
+com\gmail\zagurskaya\repository\model\City.class
+com\gmail\zagurskaya\repository\GenericRepository.class
+com\gmail\zagurskaya\repository\config\LiquibaseConfig.class
+com\gmail\zagurskaya\repository\impl\GenericRepositoryImpl.class
+com\gmail\zagurskaya\repository\CityRepository.class
+com\gmail\zagurskaya\repository\impl\CityRepositoryImpl.class
